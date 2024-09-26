@@ -1,0 +1,6 @@
+id=app_autostart
+name=App Autostart
+version=1.0
+versionCode=01
+author=hansalemao
+description=App Autostart - Edit these 2 lines in service.sh : my_package="com.termux" # use this line - only package name necessary / my_activity="com.termux/.app.TermuxActivity" 
