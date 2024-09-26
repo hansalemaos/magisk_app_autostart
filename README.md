@@ -1,7 +1,7 @@
 # magisk_app_autostart
 Magsik module to start an app (apk) when the device ist booting 
 
-sh```
+```sh
 # Edit these 2 lines in service.sh : 
 my_package="com.termux" # use this line - only package name necessary 
 my_activity="com.termux/.app.TermuxActivity" # or this one - MainActivity is necessary.
